@@ -1,0 +1,38 @@
+{
+  "name": "react-reddit",
+  "version": "0.1.0",
+  "description": "Embeddable reddit components made with React and webpack",
+  "main": "dist/RedditComponents.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "~0.8.0",
+    "file-loader": "~0.7.2",
+    "jsx-loader": "~0.11.0",
+    "react": "~0.11.2",
+    "style-loader": "~0.8.0",
+    "url-loader": "~0.5.5",
+    "webpack": "~1.4.1-beta1",
+    "webpack-dev-server": "~1.6.5"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btholt/react-components"
+  },
+  "keywords": [
+    "react-component",
+    "reddit",
+    "embed"
+  ],
+  "author": "btholt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btholt/react-components/issues"
+  },
+  "homepage": "https://github.com/btholt/react-components"
+}
